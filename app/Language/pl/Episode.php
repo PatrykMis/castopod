@@ -28,6 +28,6 @@ return [
         one {# komentarz}
         other {Komentarzy: #}
     }',
-    'all_podcast_episodes' => 'Wszystkie odcinki podkastu',
+    'all_podcast_episodes' => 'Wszystkie odcinki podcastu',
     'back_to_podcast' => 'Wróć do podkastu',
 ];

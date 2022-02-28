@@ -15,7 +15,7 @@ return [
     'optional' => 'Opcjonalnie',
     'close' => 'Zamknij',
     'home' => 'Początek',
-    'explicit' => 'Wyraźny',
+    'explicit' => 'Zawiera seks, przemoc i/lub wulgaryzmy',
     'powered_by' => 'Wspierane przez {castopod}',
     'go_back' => 'Wróć',
     'play_episode_button' => [

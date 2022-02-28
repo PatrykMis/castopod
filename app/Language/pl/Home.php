@@ -9,7 +9,7 @@ declare(strict_types=1);
  */
 
 return [
-    'all_podcasts' => 'Wszystkie podkasty',
+    'all_podcasts' => 'Wszystkie podcasty',
     'sort_by' => 'Sortuj według',
     'sort_options' => [
         'activity' => 'Ostatniej aktywności',

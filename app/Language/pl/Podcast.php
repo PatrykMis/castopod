@@ -9,7 +9,7 @@ declare(strict_types=1);
  */
 
 return [
-    'feed' => 'Kanał RSS Podkastu',
+    'feed' => 'Kanał RSS Podcastu',
     'season' => 'Sezon {seasonNumber}',
     'list_of_episodes_year' => '{year} odcinków ({episodeCount})',
     'list_of_episodes_season' =>
