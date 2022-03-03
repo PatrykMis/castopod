@@ -20,7 +20,7 @@ return [
     'copy' => 'Kopiuj',
     'copied' => 'Skopiowano!',
     'home' => 'Początek',
-    'explicit' => 'Jednoznaczne',
+    'explicit' => 'Dla dorosłych',
     'powered_by' => 'Wspierane przez {castopod}',
     'actions' => 'Akcje',
     'pageInfo' => 'Strona {currentPage} z {pageCount}',

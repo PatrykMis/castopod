@@ -59,7 +59,7 @@ return [
             'hint' => 'Czy zawiera treści dla dorosłych?',
             'undefined' => 'niezdefiniowana',
             'clean' => 'Czysta',
-            'explicit' => 'Tylko dla dorosłych',
+            'explicit' => 'Dla dorosłych',
         ],
         'author_section_title' => 'Autor',
         'author_section_subtitle' => 'Kto zarządza podcastem?',
