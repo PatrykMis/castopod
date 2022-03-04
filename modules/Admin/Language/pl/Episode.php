@@ -17,7 +17,8 @@ return [
     'season_episode_abbr' => 'S{seasonNumber}O{episodeNumber}',
     'number_of_comments' => '{numberOfComments, plural,
         one {# komentarz}
-        other {komentarzy: #}
+        few {# komentarze}
+        other {# komentarzy}
     }',
     'all_podcast_episodes' => 'Wszystkie odcinki podcastu',
     'back_to_podcast' => 'Wróć do podkastu',

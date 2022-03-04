@@ -23,7 +23,8 @@ return [
     }',
     'posts' => '{numberOfPosts, plural,
         one {<span class="font-semibold">#</span> wpis}
-        other {Wpisów: <span class="font-semibold">#</span>}
+        few {<span class="font-semibold">#</span> wpisy}
+        other {<span class="font-semibold">#</span> wpisów}
     }',
     'activity' => 'Aktywność',
     'episodes' => 'Odcinki',
@@ -33,11 +34,13 @@ return [
         'title' => 'Statystyki',
         'number_of_seasons' => '{0, plural,
             one {<span class="font-semibold">#</span> sezon}
-            other {Sezonów: <span class="font-semibold">#</span>}
+            few{<span class="font-semibold">#</span> sezony}
+            other {<span class="font-semibold">#</span> sezonów}
         }',
         'number_of_episodes' => '{0, plural,
             one {<span class="font-semibold">#</span> odcinek}
-            other {Odcinków: <span class="font-semibold">#</span>}
+            few {<span class="font-semibold">#</span> odcinki}
+            other {<span class="font-semibold">#</span> odcinków}
         }',
         'first_published_at' => 'Pierwszy odcinek opublikowany <span class="font-semibold">{0, date, medium}</span>',
     ],
@@ -47,7 +50,8 @@ return [
     'listen_on' => 'Słuchaj na',
     'persons' => '{personsCount, plural,
         one {# osoba}
-        other {osób: #}
+        few {# osoby}
+        other {# osób}
     }',
     'persons_list' => 'Osoby',
 ];

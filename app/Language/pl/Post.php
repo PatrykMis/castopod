@@ -23,15 +23,17 @@ return [
     ],
     'favourites' => '{numberOfFavourites, plural,
         one {# ulubiony}
-        other {Ulubionych: #}
+        few {# ulubione}
+        other {# ulubionych}
     }',
     'reblogs' => '{numberOfReblogs, plural,
         one {# udostępnienie}
-        other {Udostępnień: #}
+        few {# udostępnienia}
+        other {# udostępnień}
     }',
     'replies' => '{numberOfReplies, plural,
         one {# odpowiedź}
-        other {Odpowiedzi: #}
+        other {# odpowiedzi}
     }',
     'expand' => 'Rozwiń wpis',
     'block_actor' => 'Zablokuj użytkownika @{actorUsername}',

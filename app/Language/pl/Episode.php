@@ -17,7 +17,8 @@ return [
     'season_episode_abbr' => 'S{seasonNumber}:O{episodeNumber}',
     'persons' => '{personsCount, plural,
         one {# osoba}
-        other {Osób: #}
+        few {# osoby}
+        other {# osób}
     }',
     'persons_list' => 'Osoby',
     'back_to_episodes' => 'Wróć do odcinków {podcast}',
@@ -26,7 +27,8 @@ return [
     'description' => 'Opis odcinka',
     'number_of_comments' => '{numberOfComments, plural,
         one {# komentarz}
-        other {Komentarzy: #}
+        few {# komentarze}
+        other {# komentarzy}
     }',
     'all_podcast_episodes' => 'Wszystkie odcinki podcastu',
     'back_to_podcast' => 'Wróć do podkastu',

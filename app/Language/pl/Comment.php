@@ -19,7 +19,8 @@ return [
     ],
     'likes' => '{numberOfLikes, plural,
         one {# polubienie}
-        other {Polubień: #}
+        few {# polubienia}
+        other {# polubień}
     }',
     'replies' => '{numberOfReplies, plural,
         one {# odpowiedź}

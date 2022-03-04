@@ -228,11 +228,12 @@ return [
     'follow' => 'Obserwuj',
     'followers' => '{numberOfFollowers, plural,
         one {<span class="font-semibold">#</span> obserwujący}
-        other {Obserwujących: <span class="font-semibold">#</span>}
+        other {<span class="font-semibold">#</span> obserwujących}
     }',
     'posts' => '{numberOfPosts, plural,
         one {<span class="font-semibold">#</span> wpis}
-        other {Wpisów: <span class="font-semibold">#</span>}
+        few {<span class="font-semibold">#</span> wpisy}
+        other {<span class="font-semibold">#</span> wpisów}
     }',
     'activity' => 'Aktywność',
     'episodes' => 'Odcinki',
